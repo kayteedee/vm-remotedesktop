@@ -1,7 +1,7 @@
 
 
 <h1>Azure Virtual Machines with Remote Desktop</h1>
-This tutorial outlines how to create a Resource Group and Virtual Machine using Microsoft Azure and then accessing our Virtual Machine virtually using Remote Desktop. By following these steps, you can successfully deploy and access a virtual machine in Azure using Remote Desktop Connection, which provides a graphical interface to manage your VM remotely. This process requires careful setup of both network security settings and operating system configurations to ensure accessibility and security.
+This tutorial outlines how to create a Resource Group and Virtual Machine using Microsoft Azure and then access it using Remote Desktop. By following these steps, you can successfully deploy and access a virtual machine in Azure using Remote Desktop Connection, which provides a graphical interface to manage your VM remotely. This process requires careful setup of both network security settings and operating system configurations to ensure accessibility and security.
 
 
 <h2>Environments and Technologies Used</h2>
@@ -52,7 +52,7 @@ Once you open the Remote Desktop Client, you will click "add pc". Now you can go
 
 <img src="https://i.imgur.com/BM4ys7I.png"/>
 
-If you made it to this screen, CONGRATULATIONS! You have successfully implented all the necessary steps required to create and configure a virtual machine in Azure and access it remotely.
+If you made it to this screen, CONGRATULATIONS! You have successfully implented all the necessary steps required to create and configure a virtual machine in Azure and access it remotely. Once the VM is running, you'll need to configure the operating system. This includes: Setting up additional user accounts if multiple users need access, installing necessary software and updates to ensure the OS is up-to-date, as well as configuring system settings according to your requirements (like network, firewall settings, etc.).
 
 
 
